@@ -1,4 +1,3 @@
-//printing the location details. 
 const geoCode = (address,callback)=>{
     setTimeout(()=>{
         const data = {
